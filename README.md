@@ -1,6 +1,6 @@
 # Survey Data Analysis Toolkit
 
-[![DOI](https://zenodo.org/badge/DOI/[INSERT_YOUR_ZENODO_DOI_HERE].svg)](https://doi.org/[INSERT_YOUR_ZENODO_DOI_HERE])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
 This repository contains the results for the Practical Exercises 1 and 2 of the "Scientific Paper of the Future" training.
 
@@ -10,7 +10,7 @@ This repository is documented following best practices for software sharing:
 - **License**: MIT License.
 - **Metadata**: [codemeta.json](codemeta.json) provides machine-readable metadata.
 - **Citation**: See the Citation section below.
-- **DOI**: A placeholder DOI is provided for the purpose of this exercise.
+- **DOI**: A DOI will be assigned by Zenodo upon the first tagged release.
 
 ## Practical Exercise 2: Representing Provenance
 
@@ -74,4 +74,4 @@ graph TD
 
 To cite this software, please use the following metadata:
 
-Sami Abar. (2026). Survey Data Analysis Toolkit (v1.0.0). Zenodo. https://doi.org/[INSERT_YOUR_ZENODO_DOI_HERE]
+Sami Abar. (2026). Survey Data Analysis Toolkit (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
